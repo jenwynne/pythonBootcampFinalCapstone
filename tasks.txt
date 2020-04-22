@@ -1,0 +1,7 @@
+ElizabethP;Payroll changes;Make adjustments for increases;2020-02-11;2020-02-21;No
+FionaW;Cleaning services;Decide on appropriate w/e and find company to come in;2020-02-11;2020-03-01;No
+MichaelH;Social Media Q2;Outline plan to submit before meeting;2020-02-11;2020-01-19;No
+SophieT;Performance Reviews;Collect and submit all to MD;2020-02-11;2020-05-16;Yes
+CyrilP;Accounts 2019;Finalise and submit accounts for 2019;2020-02-11;2020-02-27;No
+ChrisY;Dashboard Testing;Test dashboard functionality;2020-02-11;2020-03-10;No
+PhilipJ;MD gift;budget, choose and purchase ;2020-02-11;2020-05-02;No

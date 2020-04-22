@@ -1,0 +1,103 @@
+Number of tasks per user
+
+User:							admin
+Total tasks:						0
+No further data is available as this user has no tasks.
+
+User:							MichaelH
+Total tasks:						1
+Users percentage of all tasks:				14%
+Percentage user tasks completed:			0%
+Percentage user tasks to be completed:			100%
+Percentage user tasks to be completed that are overdue:	100%
+
+User:							ElizabethP
+Total tasks:						1
+Users percentage of all tasks:				14%
+Percentage user tasks completed:			0%
+Percentage user tasks to be completed:			100%
+Percentage user tasks to be completed that are overdue:	0%
+
+User:							FionaW
+Total tasks:						1
+Users percentage of all tasks:				14%
+Percentage user tasks completed:			0%
+Percentage user tasks to be completed:			100%
+Percentage user tasks to be completed that are overdue:	0%
+
+User:							WilliamZ
+Total tasks:						0
+No further data is available as this user has no tasks.
+
+User:							JamieS
+Total tasks:						0
+No further data is available as this user has no tasks.
+
+User:							RobertM
+Total tasks:						0
+No further data is available as this user has no tasks.
+
+User:							JoannaB
+Total tasks:						0
+No further data is available as this user has no tasks.
+
+User:							PhilipJ
+Total tasks:						1
+Users percentage of all tasks:				14%
+Percentage user tasks completed:			0%
+Percentage user tasks to be completed:			100%
+Percentage user tasks to be completed that are overdue:	0%
+
+User:							ZachG
+Total tasks:						0
+No further data is available as this user has no tasks.
+
+User:							JackT
+Total tasks:						0
+No further data is available as this user has no tasks.
+
+User:							MaggyK
+Total tasks:						0
+No further data is available as this user has no tasks.
+
+User:							SophieT
+Total tasks:						1
+Users percentage of all tasks:				14%
+Percentage user tasks completed:			100%
+Percentage user tasks to be completed:			0%
+Percentage user tasks to be completed that are overdue:	0%
+
+User:							CarlyJ
+Total tasks:						0
+No further data is available as this user has no tasks.
+
+User:							SarahT
+Total tasks:						0
+No further data is available as this user has no tasks.
+
+User:							AmandaF
+Total tasks:						0
+No further data is available as this user has no tasks.
+
+User:							ChrisY
+Total tasks:						1
+Users percentage of all tasks:				14%
+Percentage user tasks completed:			0%
+Percentage user tasks to be completed:			100%
+Percentage user tasks to be completed that are overdue:	0%
+
+User:							FrankR
+Total tasks:						0
+No further data is available as this user has no tasks.
+
+User:							MarkL
+Total tasks:						0
+No further data is available as this user has no tasks.
+
+User:							CyrilP
+Total tasks:						1
+Users percentage of all tasks:				14%
+Percentage user tasks completed:			0%
+Percentage user tasks to be completed:			100%
+Percentage user tasks to be completed that are overdue:	0%
+
